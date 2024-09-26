@@ -1,0 +1,28 @@
+.user-card {
+    display: flex;
+    align-items: center;
+    background-color: beige;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-size: 150%;
+  }
+  
+  .avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%; 
+    margin-right: 15px;
+  }
+  
+  .user-info h4 {
+    margin: 0;
+    font-size: 1.1em;
+  }
+
+  .comment {
+    margin-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  
