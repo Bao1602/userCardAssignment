@@ -3,7 +3,7 @@ import './Header.css'
 const Header = () => {
   return (
     <header className='header-container'>
-        <h1 className='header-logo'>HOTEL APP!</h1>
+        <h1 className='header-logo'>This is just a header</h1>
     </header>
   )
 }
